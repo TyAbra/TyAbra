@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TyAbra
-- 👀 I’m interested in Cybersecurity, Software Development, and Data Administration
-- 🌱 I’m currently learning at Georgia State University
+- 👀 I’m interested in Cybersecurity, Software Development, Data Administration, Cryptography, and Kubernetes
 - 💞️ I’m looking to collaborate on any computer science projects
 - 📫 How to reach me is at my email tyler.abraham12@gmail.com
 
